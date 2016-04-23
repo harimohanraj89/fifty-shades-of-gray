@@ -16,3 +16,15 @@ body {
   display: inline-block;
   transition: background 0.5s linear;
 }
+
+.source {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 6px;
+  background-color: rgba(0,0,0,0.3);
+  font-size: 14px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: white;
+  text-decoration: none;
+}
